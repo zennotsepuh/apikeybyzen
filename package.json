@@ -1,0 +1,44 @@
+{
+  "name": "gaxfucvme25",
+  "version": "1.0.0",
+  "description": "Bug Whatsap Crasher By GaxFucvMe25",
+  "main": "index.js",
+  "author": "GaxFucvMe25",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "chalk": "^5.4.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "form-data": "latest",
+    "pino": "^9.6.0",
+    "ssh2": "^1.16.0",
+    "ws": "^8.18.3",
+    "multer": "^1.4.5-lts.1",
+    "telegram": "^2.22.2",
+    "input": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "keywords": [
+    "whatsapp",
+    "telegram",
+    "bot",
+    "spam",
+    "rasuk",
+    "baileys",
+    "gaxfucvme25"
+  ]
+}
